@@ -53,6 +53,6 @@ if (Task::start($task)) {
 echo "Bye!";
 ```
 
-[Example result image](http://i.imgur.com/xPN5QbO.gifv)
+[Example result image](http://i.imgur.com/5nTDIcq.gifv)
 
-![Example result](http://i.imgur.com/xPN5QbO.gif)
+![Example result](http://i.imgur.com/5nTDIcq.gif)
