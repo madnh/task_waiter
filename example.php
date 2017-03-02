@@ -18,7 +18,7 @@ $task = 'example_task';
 
 //Task::$savePath = __DIR__;
 
-echo Task::isWorking($task) ? "Task is running" : 'Task is free';
+echo Task::isWorking($task) ? "Task is running in other process" : 'Task is free';
 
 print "\n";
 
