@@ -1,0 +1,17 @@
+{
+  "name": "madnh/task_waiter",
+  "description": "Waiting for a task in other php process complete",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MaDnh",
+      "email": "dodanhmanh@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "MaDnh\\TaskWaiter\\": "src/"
+    }
+  }
+}

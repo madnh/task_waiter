@@ -1,0 +1,3 @@
+.idea
+/src/tasks/*
+!/src/tasks/.gitkeep
